@@ -3,14 +3,15 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "bby261.ertugruldanaci.adamas"
         versionCode = "1" 
-        version     = "0.0.1" >
+        version     = "0.2.1" >
 
+	<!-- BBY 261 Adam Asmaca Oyunu Ertuğrul Danacı -->
     <!-- Standart Uygulama Verileri -->
 
     <name>bby261.ertugruldanaci.adamas</name>
 
     <description>
-        Adam Asıyoruz
+        Adam Asmaca Oyunu
     </description>
 
     <author href="http://yunus.hacettepe.edu.tr/~ertugrul.danaci" email="rtgrldnc@gmail.com">

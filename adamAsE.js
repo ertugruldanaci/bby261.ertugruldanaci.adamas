@@ -2,6 +2,13 @@
 
 var kelimeler = [
     { kelime: 'kütüphane', ipucu: 'Bir tür bilgi merkezi' },
+    { kelime: 'error', ipucu: 'Programcılar tarfından almaktan nefret edilen şey (İngilizce)' },
+    { kelime: 'zirve', ipucu: 'Bilgi ve Belge Yönetimi öğrencilerinin olmak istediği yer' },
+    { kelime: 'ümit', ipucu: 'Bilgi ve Belge Yönetimi öğrencilerinin dersleri geçmek için heveslenirken zihinlerinde bolca barındırdıkları şey' },
+    { kelime: 'üzüm', ipucu: 'Bilgi ve Belge Yönetimi öğrencilerinin en sevdiği meyve' },
+    { kelime: 'uygulama', ipucu: 'Yazılım geliştiricilerin yaptığı, bilgisayar ve telefon gibi elektronik cihazlarda çalışan programlar' },
+    { kelime: 'kitaplık', ipucu: 'Birçok kitabın barındırıldığı raf sistemi' },
+	{ kelime: 'html', ipucu: "Web sayfalarını oluşturmak için kullanılan standart metin işaretleme dilidir."},
     { kelime: 'arşiv', ipucu: 'Belgelerin yaşam döngüsünü tamamladıktan sonra başlayan süreç' },
     { kelime: 'ünak', ipucu: 'Üniversite ve Araştırma Kütüphanecileri Derneği (kısa)' },
 	{ kelime: 'knowledge', ipucu: 'Deneyimlerimizden oluşan ve başkasına aktarılamayan bilgi türü (İngilizce)' },
